@@ -1,22 +1,329 @@
-<h1 align="center">Hi 👋, I'm Dulitha Kadukapuma</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kadukapuma54321-lab&label=Profile%20views&color=0e75b6&style=flat" alt="kadukapuma54321-lab" /> </p>
+<!-- Animated Header with Gradient Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=250&section=header&text=Dulitha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descSize=20&descAlignY=55" />
 
-- 🌱 I’m currently learning **c++,react,js**
+<!-- Dynamic Typing Animation with Multiple Lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%F0%9F%92%A1;Building+The+Future%2C+One+Commit+at+a+Time+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **dulithakadukapuma12345@gmail.com**
-
-- ⚡ Fun fact **Duli Bro**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dulithakadukapuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulithakadukapuma" height="30" width="40" /></a>
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kadukapuma54321-lab&label=Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kadukapuma54321-lab?label=Followers&style=for-the-badge&color=FF6E96&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kadukapuma54321-lab?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=star&logoColor=white" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadukapuma54321-lab&show_icons=true&locale=en&layout=compact" alt="kadukapuma54321-lab" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadukapuma54321-lab&show_icons=true&locale=en" alt="kadukapuma54321-lab" /></p>
+<br/>
+
+<!-- About Me Section with Enhanced Design -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+</div>
+
+<div align="center">
+  
+  ```ascii
+  ╔═══════════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                                   ║
+  ║     ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ███╗ █████╗      ║
+  ║     ██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██║ ██╔╝██╔══██╗██╔══██╗██║   ██║████╗ ████║██╔══██╗     ║
+  ║     █████╔╝ ███████║██║  ██║██║   ██║█████╔╝ ███████║██████╔╝██║   ██║██╔████╔██║███████║     ║
+  ║     ██╔═██╗ ██╔══██║██║  ██║██║   ██║██╔═██╗ ██╔══██║██╔═══╝ ██║   ██║██║╚██╔╝██║██╔══██║     ║
+  ║     ██║  ██╗██║  ██║██████╔╝╚██████╔╝██║  ██╗██║  ██║██║     ╚██████╔╝██║ ╚═╝ ██║██║  ██║     ║
+  ║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝     ║
+  ║                                                                                   ║
+  ╚═══════════════════════════════════════════════════════════════════════════════════╝
+  ```
+
+</div>
+
+<br/>
+
+```typescript
+
+
+const kadukapuma: Developer = {
+  name: "Dulitha Kadukapuma",
+  location: "Sri Lanka 🇱🇰",
+  role: "Full Stack Developer & Tech Enthusiast",
+  
+  languages: ["c", "Python", "JavaScript", "SQL"],
+  frameworks: ["React", "Node.js"],
+  databases: ["MySQL", "PostgreSQL", "Firebase"],
+  tools: ["Git", "VS Code"],
+
+  
+  dailyRoutine: [
+    "☕ Brew Coffee",
+    "💻 Write Clean Code", 
+    "🐛 Debug Like a Detective",
+    "🚀 Deploy to Production",
+    "📚 Learn Something New",
+    "🔁 Repeat"
+  ]
+};
+```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- What I'm Currently Working On -->
+## 🎯 Current Focus & Goals
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding"/>
+      <br/><br/>
+      <b>🔭 Building</b><br/>
+      <sub>Innovative full-stack applications<br/>with modern tech stacks</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="learning"/>
+      <br/><br/>
+      <b>🌱 Learning</b><br/>
+      <sub>Cloud architecture, DevOps,<br/>and AI/ML technologies</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="collaborating"/>
+      <br/><br/>
+      <b>🤝 Collaborating</b><br/>
+      <sub>Open source projects &<br/>building cool stuff together</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack Section -->
+## 💻 Tech Stack & Tools
+
+### 🚀 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,c,cpp,bash" alt="languages" />
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,django,tailwind,bootstrap,jquery" alt="frameworks" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,vercel" alt="databases" />
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,eclipse,docker,linux,postman" alt="tools" />
+</p>
+
+### 🎨 Design & Other
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,npm,webpack,vite" alt="design" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Statistics Section -->
+## 📊 GitHub Analytics & Performance
+
+<!-- Main Stats Row -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kadukapuma54321-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadukapuma54321-lab&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+</p>
+
+<!-- Language Stats and Contribution Graph -->
+
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadukapuma54321-lab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E96&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+</p>
+
+<!-- Additional Metrics -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadukapuma54321-lab&theme=radical" alt="Profile Summary"/>
+</p>
+
+</div>
+
+<br/>
+
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects Section -->
+## 🎯 Featured Projects & Repositories
+
+</div>
+
+<div align="center">
+
+<!-- Repository Cards Grid -->
+<p align="center">
+  <a href="https://github.com/kadukapuma54321-lab/testyourchoice3">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kadukapuma54321-lab&repo=testyourchoice3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
+  </a>
+ 
+</p>
+
+<!-- View All Button -->
+<p align="center">
+  <a href="https://github.com/kadukapuma54321-lab?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+
+
+<br/>
+
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect Section -->
+## 📫 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://github.com/kadukapuma54321-lab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:dulithakadukapuma12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kadukapuma">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<!-- Contact Info Box -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>📧 Email</b><br/>
+      dulithakadukapuma12345@gmail.com
+    </td>
+    <td align="center">
+      <b>🌍 Location</b><br/>
+      Sri Lanka 🇱🇰
+    </td>
+    <td align="center">
+      <b>💼 Open to</b><br/>
+      Collaborations & Opportunities
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+
+
+
+<!-- Fun Facts Section -->
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Support Section -->
+## 💖 Support My Work
+
+<p align="center">
+  If you find my projects helpful or interesting, consider supporting me!
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/kadukapuma54321-lab">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/kadukapuma54321-lan">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- Footer Section -->
+<div align="center">
+
+
+<br/><br/>
+
+<!-- Footer Badges -->
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&animation=twinkling" />
+
+### ⭐ From [DulithaKadukapuma](https://github.com/kadukapuma54321-lab)
+
+<p align="center">
+  <b>Made with 💙 and lots of ☕</b><br/>
+  <sub>© 2026 DulithaKadukapuma. All rights reserved.</sub><br/><br/>
+  <i>If you liked this profile, don't forget to ⭐ star my repositories!</i>
+</p>
+
+<!-- GitHub Stats Footer -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadukapuma54321-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadukapuma54321-lab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="150" alt="languages"/>
+</p>
+
+</div>
