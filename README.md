@@ -10,9 +10,9 @@
 
 <!-- Profile Views Counter with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kadukapuma54321-lab&label=Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kadukapuma54321-lab?label=Followers&style=for-the-badge&color=FF6E96&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kadukapuma54321-lab?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=star&logoColor=white" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=dulitha-kadukapuma&label=Profile%20Views&color=00D9FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dulitha-kadukapuma?label=Followers&style=for-the-badge&color=FF6E96&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dulitha-kadukapuma?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=star&logoColor=white" alt="Stars" />
 </p>
 
 <!-- Animated Divider -->
@@ -29,22 +29,6 @@
 
 </div>
 
-<div align="center">
-  
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                   ║
-  ║     ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ███╗ █████╗      ║
-  ║     ██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██║ ██╔╝██╔══██╗██╔══██╗██║   ██║████╗ ████║██╔══██╗     ║
-  ║     █████╔╝ ███████║██║  ██║██║   ██║█████╔╝ ███████║██████╔╝██║   ██║██╔████╔██║███████║     ║
-  ║     ██╔═██╗ ██╔══██║██║  ██║██║   ██║██╔═██╗ ██╔══██║██╔═══╝ ██║   ██║██║╚██╔╝██║██╔══██║     ║
-  ║     ██║  ██╗██║  ██║██████╔╝╚██████╔╝██║  ██╗██║  ██║██║     ╚██████╔╝██║ ╚═╝ ██║██║  ██║     ║
-  ║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝     ║
-  ║                                                                                   ║
-  ╚═══════════════════════════════════════════════════════════════════════════════════╝
-  ```
-
-</div>
 
 <br/>
 
@@ -157,8 +141,8 @@ const kadukapuma: Developer = {
 
 <!-- Main Stats Row -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kadukapuma54321-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadukapuma54321-lab&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dulitha-kadukapuma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dulitha-kadukapuma&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=A0A0A0" alt="GitHub Streak"/>
 </p>
 
 <!-- Language Stats and Contribution Graph -->
@@ -166,12 +150,12 @@ const kadukapuma: Developer = {
 
 <!-- Activity Graph -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadukapuma54321-lab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E96&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulitha-kadukapuma&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E96&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </p>
 
 <!-- Additional Metrics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadukapuma54321-lab&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulitha-kadukapuma&theme=radical" alt="Profile Summary"/>
 </p>
 
 </div>
@@ -195,15 +179,15 @@ const kadukapuma: Developer = {
 
 <!-- Repository Cards Grid -->
 <p align="center">
-  <a href="https://github.com/kadukapuma54321-lab/testyourchoice3">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kadukapuma54321-lab&repo=testyourchoice3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
+  <a href="https://github.com/dulitha-kadukapuma/testyourchoice3">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dulitha-kadukapuma&repo=testyourchoice3&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&description_lines_count=3" />
   </a>
  
 </p>
 
 <!-- View All Button -->
 <p align="center">
-  <a href="https://github.com/kadukapuma54321-lab?tab=repositories">
+  <a href="https://github.com/dulitha-kadukapuma?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </p>
@@ -228,7 +212,7 @@ const kadukapuma: Developer = {
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://github.com/kadukapuma54321-lab">
+  <a href="https://github.com/dulitha-kadukapuma">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:dulithakadukapuma12345@gmail.com">
@@ -285,10 +269,10 @@ const kadukapuma: Developer = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/kadukapuma54321-lab">
+  <a href="https://github.com/sponsors/dulitha-kadukapuma">
     <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
   </a>
-  <a href="https://www.buymeacoffee.com/kadukapuma54321-lan">
+  <a href="https://www.buymeacoffee.com/dulitha-kadukapuma">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
@@ -312,7 +296,7 @@ const kadukapuma: Developer = {
 <!-- Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&animation=twinkling" />
 
-### ⭐ From [DulithaKadukapuma](https://github.com/kadukapuma54321-lab)
+### ⭐ From [DulithaKadukapuma](https://github.com/dulitha-kadukapuma)
 
 <p align="center">
   <b>Made with 💙 and lots of ☕</b><br/>
@@ -322,8 +306,8 @@ const kadukapuma: Developer = {
 
 <!-- GitHub Stats Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadukapuma54321-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadukapuma54321-lab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="150" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dulitha-kadukapuma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulitha-kadukapuma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="150" alt="languages"/>
 </p>
 
 </div>
